@@ -1,0 +1,16 @@
+a=5
+b=4
+addition=a+b
+subration=a-b
+multiplication=a*b
+division=a/b
+floor_division=a//b
+modulus=a%b
+exponetiation=a**b
+print("addition:",addition);
+print("subration:",subration);
+print("multiplication:",multiplication);
+print("division:",division);
+print("floor_division:",floor_division);
+print("modulus:",modulus);
+print("exponetiation:",exponetiation);
